@@ -53,8 +53,6 @@ This dashboard can be leveraged for:
 | Power BI  | Data Visualization & Dashboard |
 | DAX Formulas        | Data Modeling & Metrics         |
 
-> *You can customize this section based on the tools you used*
-
 ---
 
 ## 📸 Dashboard Preview
