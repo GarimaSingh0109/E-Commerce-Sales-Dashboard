@@ -50,9 +50,8 @@ This dashboard can be leveraged for:
 
 | Tool           | Purpose                      |
 |----------------|------------------------------|
-| Power BI / Tableau / Excel | Data Visualization & Dashboard |
-| Python / Pandas (Optional) | Data Cleaning & Preprocessing |
-| DAX / Excel Formulas        | Data Modeling & Metrics         |
+| Power BI  | Data Visualization & Dashboard |
+| DAX Formulas        | Data Modeling & Metrics         |
 
 > *You can customize this section based on the tools you used*
 
