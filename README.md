@@ -35,7 +35,7 @@ This project aims to turn raw sales data into actionable insights through compel
 
 ---
 
-##Project Learnings
+## Project Learnings
 
 Created interactive dashboard to track and analyze online sales data
 
